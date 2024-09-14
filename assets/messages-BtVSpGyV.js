@@ -1,0 +1,1 @@
+import{j as o,a as e,T as s,C as t}from"./index-BV6xRstu.js";import{u as r}from"./page-423rQC_z.js";import"./react-Bz49nljE.js";import"./firebase-0GKBlLtg.js";const g=function(){return r({title:"Messages"}),o(t,{sx:{py:2},children:[e(s,{level:"h2",gutterBottom:!0,children:"Messages"}),e(s,{children:"Coming soon..."})]})};export{g as Component};
